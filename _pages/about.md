@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Department of Computer Science at [Pennsylvania State University](https://www.psu.edu/), currently working as a Graduate Research Assistant under the guidance of [Prof. Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io//).
+I am a second-year Ph.D. student in the Department of Computer Science and Engineering at [Pennsylvania State University](https://www.psu.edu/), currently working as a Graduate Research Assistant under the guidance of [Dr. Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io//).
 
 Research Interest
 ======
-My research focuses on security and privacy, particularly within wireless communications and user-side implementations. I am dedicated to addressing security and privacy concerns by developing innovative attacks and defense mechanisms. My work involves creating new methodologies to exploit and safeguard communication systems, ensuring that both current and emerging technologies are robust against threats. My research interests include but are not limited to the following:
+My research focuses on security and privacy, particularly within wireless communications and user-side implementations. I am dedicated to addressing security and privacy concerns by developing innovative attack strategies and defense mechanisms. My work involves creating new methodologies to exploit and safeguard communication systems, ensuring that both current and emerging technologies are robust against threats. My research interests include but are not limited to the following:
 
 - **Intrusion Detection and Prevention Systems**
 - **Wireless Communications and Device Security**
