@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Computer Science at [Pennsylvania State University](https://www.psu.edu/), currently working as a Graduate Research Assistant under the guidance of [Prof. Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io//).
+I am a second-year Ph.D. student in the Department of Computer Science at [Pennsylvania State University](https://www.psu.edu/), currently working as a Graduate Research Assistant under the guidance of [Prof. Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io//).
 
 Research Interest
 ======
@@ -26,8 +26,6 @@ Recent News
 - **[May'24]**: ["Cracking the 5G Fortress: Peering Into 5G’s Vulnerability Abyss"](https://www.blackhat.com/us-24/briefings/schedule/#cracking-the-g-fortress-peering-into-gs-vulnerability-abyss-40620) has been accepted to be presented at the Blackhat USA 2024.
 - **[April'24]**: Google awarded $3,000 for reporting vulnerabilities in 4G devices.
 - **[April'24]**: Acknowledged in [Unisoc Product Security Acknowledgements](https://www.unisoc.com/en_us/secy/thank) for vulnerabilities in 5G baseband implementations.
-- **[April'24]**: Google awarded $3,000 for reporting vulnerabilities in 4G devices.
-- **[March'24]**: Acknowledged in [Unisoc Product Security Acknowledgements](https://www.unisoc.com/en_us/secy/thank) for vulnerabilities in 5G baseband implementations.
 - **[March'24]**: "Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands" has been accepted at USENIX Security ‘24.
 - **[February'24]**: Google awarded $14,250 for reporting high severity vulnerabilities in 5G devices.
 - **[October’23]**: "Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications” has been accepted at USENIX Security ‘24.
