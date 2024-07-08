@@ -20,7 +20,7 @@ My research focuses on security and privacy, particularly within wireless commun
 Recent News
 ======
 
-- **[June'24]**: Acknowledged in [Samsung Product Security Update](https://semiconductor.samsung.com/support/quality-support/product-security-updates/) for vulnerabilities in bluetooth controller implementations.
+<!-- - **[June'24]**: Acknowledged in [Samsung Product Security Update](https://semiconductor.samsung.com/support/quality-support/product-security-updates/) for vulnerabilities in bluetooth controller implementations. -->
 - **[June'24]**: Acknowledged in [Samsung Product Security Update](https://semiconductor.samsung.com/support/quality-support/product-security-updates/) for vulnerabilities in 5G baseband implementations.
 - **[June'24]**: Samsung awarded $5,700 for reporting high severity vulnerabilities in 5G devices.
 - **[May'24]**: ["Cracking the 5G Fortress: Peering Into 5G’s Vulnerability Abyss"](https://www.blackhat.com/us-24/briefings/schedule/#cracking-the-g-fortress-peering-into-gs-vulnerability-abyss-40620) has been accepted to be presented at the Blackhat USA 2024.
