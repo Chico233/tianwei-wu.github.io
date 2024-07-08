@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Department of Computer Science at [Pennsylvania State University](https://www.psu.edu/), currently working as a Graduate Research Assistant under the guidance of[Prof. Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io//).
+I am a first-year Ph.D. student in the Department of Computer Science at [Pennsylvania State University](https://www.psu.edu/), currently working as a Graduate Research Assistant under the guidance of [Prof. Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io//).
 
 Research Interest
 ======
