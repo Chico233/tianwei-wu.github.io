@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianwei Wu"
 title_separator          : "-"
 name                     : &name "Tianwei Wu"
 description              : &description "personal description"
-url                      : https://tianwei-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chico233.github.io/tianwei-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chico233/tianwei-wu.github.io/"
+repository               : "chico233/tianwei-wu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
