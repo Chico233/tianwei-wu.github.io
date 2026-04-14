@@ -21,7 +21,7 @@ Recent News
 ======
 <!-- - **[June'24]**: Acknowledged in [Samsung Product Security Update](https://semiconductor.samsung.com/support/quality-support/product-security-updates/) for vulnerabilities in bluetooth controller implementations. -->
 - **[April'26]**: ["Guardians of the Air: In-Device Detection of 5G Control-Plane Threats"] has been accepted to be presented at IEEE S&P ‘26.
-- **[March'26]**: MediaTek awarded $1,125 for reporting high severity vulnerability in 5G devices.
+- **[April'26]**: MediaTek awarded $1,125 for reporting high severity vulnerability in 5G devices.
 - **[March'26]**: Google awarded $3,000 for reporting high severity vulnerability in 5G devices.
 - **[August'25]**: ["CoreCrisis: Threat-Guided and Context-Aware Iterative Learning and Fuzzing of 5G Core Networks"](https://www.usenix.org/system/files/usenixsecurity25-dong-yilu.pdf) has been accepted to be presented at USENIX Security ‘25.
 - **[June'25]**: ["Evaluating Time-Bounded Defense Against RRC Relay in 5G Broadcast Messages"](https://dl.acm.org/doi/epdf/10.1145/3734477.3734718) has been accepted to be presented at WiSec ‘25.
